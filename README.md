@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello there!
+
+I'm currently working on my Bachelor's degree in Computer Science and can't wait to learn whatever I can. Hopefully I get to work on some great projects on this fine website.
 
 <!--
 **cboat/cboat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
